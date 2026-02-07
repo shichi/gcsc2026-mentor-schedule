@@ -1,61 +1,61 @@
-# GCSC2026 メンター予約状況
+# GCSC2026 Mentor Booking Status
 
-最終更新: 2026-02-07T14:11:09.374611
+Last Updated: 2026-02-07T20:30:13.103877
 
 ---
 
 ## Session 1: 10:00-12:00
 
-### 金子 匡俊
-- (予約なし)
+### Masatoshi KANEKO (金子 匡俊)
+- (No bookings)
 
 ### Julian Brody
-- (予約なし)
+- (No bookings)
 
 ### Heedong YOO
-- (予約なし)
+- (No bookings)
 
 ### Hyun Joo CHUNG
-- (予約なし)
+- (No bookings)
 
 ## Session 2: 13:00-15:00
 
-### 村岡 健太
-- (予約なし)
+### Kenta MURAOKA (村岡 健太)
+- (No bookings)
 
-### 片岡 慶一郎
-- (予約なし)
+### Keiichiro KATAOKA (片岡 慶一郎)
+- (No bookings)
 
 ### Seung Hwan MOK
-- (予約なし)
+- (No bookings)
 
 ### Hyun Joo CHUNG
-- (予約なし)
+- (No bookings)
 
 ## Session 3: 15:30-17:30
 
-### 村岡 健太
-- (予約なし)
+### Kenta MURAOKA (村岡 健太)
+- (No bookings)
 
-### 紺野 貴嗣
-- (予約なし)
+### Takatsugu KONNO (紺野 貴嗣)
+- (No bookings)
 
 ### Seung Hwan MOK
-- (予約なし)
+- (No bookings)
 
 ### Hyun Joo CHUNG
-- (予約なし)
+- (No bookings)
 
 ## Faculty Night: 20:00-22:00
 
 ### Heedong YOO
-- (予約なし)
+- (No bookings)
 
 ### Seung Hwan MOK
-- (予約なし)
+- (No bookings)
 
 ### Hyun Joo CHUNG
-- (予約なし)
+- (No bookings)
 
-### 一橋大学教員
-- (予約なし)
+### Hitotsubashi University Faculty (一橋大学教員)
+- (No bookings)
