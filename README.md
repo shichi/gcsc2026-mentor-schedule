@@ -18,7 +18,7 @@ This directory contains mentor booking data for GCSC2026.
 Use the following commands in team channels (`#team-01` to `#team-20`):
 
 ```
-/mentor book session:session_1 timeslot:10:00-10:20 mentor:金子 匡俊
+/mentor book session:session_1 timeslot:10:00-10:20 mentor:Masatoshi KANEKO
 /mentor cancel session:session_1 timeslot:10:00-10:20
 /mentor my
 /mentor status session:session_1
