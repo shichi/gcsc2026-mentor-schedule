@@ -50,10 +50,5 @@ Open `mentor_bookings.md` on GitHub to view the overall booking status.
 - Hyun Joo CHUNG
 
 ### Faculty Night: 20:00-22:00
-**Mentors:**
-- Heedong YOO
-- Seung Hwan MOK
-- Hyun Joo CHUNG
-- Hitotsubashi University Faculty (一橋大学教員)
 
-※ Bookings available (priority for teams with slower progress)
+**Not available for booking** - Faculty members will circulate among teams to provide support.

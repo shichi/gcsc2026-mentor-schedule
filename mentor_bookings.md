@@ -1,6 +1,6 @@
 # GCSC2026 Mentor Booking Status
 
-Last Updated: 2026-02-07T20:30:13.103877
+Last Updated: 2026-02-07T20:33:11.601818
 
 ---
 
@@ -48,14 +48,4 @@ Last Updated: 2026-02-07T20:30:13.103877
 
 ## Faculty Night: 20:00-22:00
 
-### Heedong YOO
-- (No bookings)
-
-### Seung Hwan MOK
-- (No bookings)
-
-### Hyun Joo CHUNG
-- (No bookings)
-
-### Hitotsubashi University Faculty (一橋大学教員)
-- (No bookings)
+**Not available for booking** - Faculty members will circulate among teams
