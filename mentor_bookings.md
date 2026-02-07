@@ -1,49 +1,69 @@
 # GCSC2026 Mentor Booking Status
 
-Last Updated: 2026-02-07T20:33:11.601818
+Last Updated: 2026-02-07T20:38:53.868922
+
+**Booking System:** Each session is divided into 20-minute timeslots. Teams can book one timeslot per session.
 
 ---
 
 ## Session 1: 10:00-12:00
 
-### Masatoshi KANEKO (金子 匡俊)
+### 10:00-10:20
 - (No bookings)
 
-### Julian Brody
+### 10:20-10:40
 - (No bookings)
 
-### Heedong YOO
+### 10:40-11:00
 - (No bookings)
 
-### Hyun Joo CHUNG
+### 11:00-11:20
+- (No bookings)
+
+### 11:20-11:40
+- (No bookings)
+
+### 11:40-12:00
 - (No bookings)
 
 ## Session 2: 13:00-15:00
 
-### Kenta MURAOKA (村岡 健太)
+### 13:00-13:20
 - (No bookings)
 
-### Keiichiro KATAOKA (片岡 慶一郎)
+### 13:20-13:40
 - (No bookings)
 
-### Seung Hwan MOK
+### 13:40-14:00
 - (No bookings)
 
-### Hyun Joo CHUNG
+### 14:00-14:20
+- (No bookings)
+
+### 14:20-14:40
+- (No bookings)
+
+### 14:40-15:00
 - (No bookings)
 
 ## Session 3: 15:30-17:30
 
-### Kenta MURAOKA (村岡 健太)
+### 15:30-15:50
 - (No bookings)
 
-### Takatsugu KONNO (紺野 貴嗣)
+### 15:50-16:10
 - (No bookings)
 
-### Seung Hwan MOK
+### 16:10-16:30
 - (No bookings)
 
-### Hyun Joo CHUNG
+### 16:30-16:50
+- (No bookings)
+
+### 16:50-17:10
+- (No bookings)
+
+### 17:10-17:30
 - (No bookings)
 
 ## Faculty Night: 20:00-22:00
